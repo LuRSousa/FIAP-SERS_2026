@@ -22,10 +22,10 @@ Atualmente, estão disponíveis as aulas **08 e 09**.
 
 Até o momento, os seguintes conteúdos estão disponíveis:
 
-| Aula    | Conteúdo                            | Descrição                                                                                                                   |
-| ------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Aula 08 | Machine Learning — Classificação    | Aplicação de técnicas de classificação utilizando Python e Jupyter Notebook em problemas relacionados à temática de energia |
-| Aula 09 | Machine Learning — Regressão Linear | Aplicação de regressão linear utilizando Python e Jupyter Notebook em problemas relacionados à temática de energia          |
+| Conteúdo                            | Descrição                                                                                                                   |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Machine Learning — Classificação    | Aplicação de técnicas de classificação utilizando Python e Jupyter Notebook em problemas relacionados à temática de energia |
+| Machine Learning — Regressão Linear | Aplicação de regressão linear utilizando Python e Jupyter Notebook em problemas relacionados à temática de energia          |
 
 > Novos conteúdos serão adicionados conforme o desenvolvimento da disciplina.
 
